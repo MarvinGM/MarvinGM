@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarvinGM
 - 👀 I’m interested in programming/coding
-- 🌱 I’m currently learning swift/xcode
+- 🌱 I’m currently learning Swift/SwiftUI/xcode
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
