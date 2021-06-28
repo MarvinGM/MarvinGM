@@ -1,3 +1,5 @@
+![MarvinGM](https://github.com/MarvinGM/MarvinGM/blob/main/header.jpeg)
+
 - 👋 Hi, I’m @MarvinGM
 - 👀 I’m interested in programming/coding
 - 🌱 I’m currently learning Swift/SwiftUI/xcode
