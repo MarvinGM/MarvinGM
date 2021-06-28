@@ -1,4 +1,4 @@
-![MarvinGM](https://github.com/MarvinGM/MarvinGM/blob/main/header2.png)
+![MarvinGM](https://github.com/MarvinGM/MarvinGM/blob/main/header.jpeg)
 
 - 👋 Hi, I’m @MarvinGM
 - 👀 I’m interested in programming/coding
